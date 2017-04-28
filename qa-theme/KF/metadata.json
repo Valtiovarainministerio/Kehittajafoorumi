@@ -1,0 +1,10 @@
+{
+	"name": "KF",
+	"description": "KF responsive theme",
+	"version": "1.0",
+	"date": "2016-10-31",
+	"author": "KF",
+	"author_uri": "http://suomidigi.fi",
+	"license": "GPLv2",
+	"min_q2a": "1.7"
+}
